@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Global Financial Overview",
+  "description": "Explore global indices, US stocks, crypto, forex, commodities, and earnings calendar with real-time quotes, interactive charts, and stock screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
